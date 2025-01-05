@@ -19,7 +19,7 @@ export default {
         {
           id: 3,
           name: 'PHP',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
+          imageUrl: 'https://files.catbox.moe/f7ppsy.png',
           status: 'Advanced'
         },
         {
