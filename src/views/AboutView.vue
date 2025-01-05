@@ -18,9 +18,9 @@ export default {
         },
         {
           id: 3,
-          name: 'PHP',
+          name: 'BLENDER',
           imageUrl: 'https://files.catbox.moe/f7ppsy.png',
-          status: 'Advanced'
+          status: 'Profesional'
         },
         {
           id: 4,
