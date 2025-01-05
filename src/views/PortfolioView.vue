@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Personal Website',
-          imageUrl:'https://files.catbox.moe/2bszmk.png',
+          imageUrl:'portfolio-v3-2025-001',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
