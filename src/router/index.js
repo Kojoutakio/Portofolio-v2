@@ -40,7 +40,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  document.title = to.meta.title + '🄺🄾🄹🄾🅄🅃🄰 🄷🄾🄼🄴'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
+  document.title = to.meta.title + 'Kojouta'; // Mengambil judul dari meta atau mengatur judul default jika tidak ada
   next();
 });
 
