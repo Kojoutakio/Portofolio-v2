@@ -9,9 +9,9 @@ export default {
           name: 'Personal Website',
           imageUrl:'lowpoly',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
+          tech: 'Blender, Youtube',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
-          demo: 'https://kiohomev3.netlify.app/'
+          demo: 'null'
         },
         {
           id: 2,
