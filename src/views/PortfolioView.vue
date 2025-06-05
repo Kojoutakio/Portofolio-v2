@@ -6,16 +6,16 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
-          imageUrl:'lowpoly',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
+          name: 'We are failed',
+          imageUrl:'outside',
+          status: 'My reference is taken from Chaos insurgency, they failed to achieve their objective when they wanted to leave the facility, their pick-up ship was destroyed and they were also surrounded.',
           tech: 'Blender, Youtube',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
           demo: 'null'
         },
         {
           id: 2,
-          name: 'Sahabat Muslim',
+          name: 'Lowpoly character',
           imageUrl: 'lowpoly',
           status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
           tech: 'VueJS 3, Tailwind',
