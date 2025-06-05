@@ -128,7 +128,7 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Kojouta. I'm a web developer And 3D model artist from Jakarta, West Java. I
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Kojouta. I'm a 3D animator And 3D model artist from Jakarta, West Java. I
             have 1 year of experience in in 3D modeling and Animation.
             I really enjoy what I do right now, in my opinion, making 3D modeling and Animation is not just a job, but also an art that
             has
