@@ -44,7 +44,7 @@ export default {
           id: 5,
           name: 'Malo 1471',
           imageUrl: 'Malo',
-          status: 'I took the reference from scp 1471. Actually, I dont make character styles like this anymore [focus more on low poly characters] and that's a model that I've made quite well..',
+          status: 'I took the reference from scp 1471. Actually, I dont make character styles like this anymore [focus more on low poly characters] and thats a model that Ive made quite well..',
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
