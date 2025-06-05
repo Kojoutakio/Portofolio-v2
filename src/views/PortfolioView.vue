@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'Sahabat Muslim',
-          imageUrl: 'sahabatmuslim',
+          imageUrl: 'https://files.catbox.moe/h41dsv.png',
           status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/rakha-elctrnx/muslim-companion',
