@@ -24,27 +24,27 @@ export default {
         },
         {
           id: 3,
-          name: 'SISTEKDES',
-          imageUrl: 'sistekdes',
-          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
-          tech: 'Laravel 9, Bootstrap',
+          name: 'SCP 096 Breach Incident',
+          imageUrl: 'scp096',
+          status: 'This is when the Mobile Task Forces try to stop 096 from causing heavy damage and casualties at the facility [REDACTED]',
+          tech: 'Blender, Sketch',
           github: 'null',
           demo: 'null'
         },
         {
           id: 4,
-          name: 'Bumdesma',
-          imageUrl: 'bumdesma',
-          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-          tech: 'Laravel 8, Bootstrap',
+          name: 'O5',
+          imageUrl: 'Secret Introgation',
+          status: 'This is when OVERWATC [O5 Council] interrogated a class d',
+          tech: 'Blender, Roblox studio',
           github: 'null',
           demo: 'null'
         },
         {
           id: 5,
-          name: 'SP2SE',
-          imageUrl: 'sp2se',
-          status: 'Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.',
+          name: 'Malo 1471',
+          imageUrl: 'Malo',
+          status: 'I took the reference from scp 1471. Actually, I dont make character styles like this anymore [focus more on low poly characters] and that's a model that I've made quite well..',
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
