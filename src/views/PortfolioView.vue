@@ -9,7 +9,7 @@ export default {
           name: 'We are failed',
           imageUrl:'outside',
           status: 'My reference is taken from Chaos insurgency, they failed to achieve their objective when they wanted to leave the facility, their pick-up ship was destroyed and they were also surrounded.',
-          tech: 'Blender, Youtube',
+          tech: 'Blender, Roblox studio',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
           demo: 'null'
         },
@@ -17,10 +17,10 @@ export default {
           id: 2,
           name: 'Lowpoly character',
           imageUrl: 'lowpoly',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          status: 'The first character I made using the low poly character style I am still learning to develop this skill/style',
+          tech: 'Blender, Youtube',
+          github: 'null',
+          demo: 'null'
         },
         {
           id: 3,
