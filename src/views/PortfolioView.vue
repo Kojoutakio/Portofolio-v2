@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'Secret Introgation',
-          imageUrl: 'O5',
+          imageUrl: 'Council',
           status: 'This is when OVERWATC [O5 Council] interrogated a class d',
           tech: 'Blender, Roblox studio',
           github: 'null',
