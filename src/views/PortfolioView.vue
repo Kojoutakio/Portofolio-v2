@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'TV Girl',
-          imageUrl: 'Polylow',
+          imageUrl: 'PolyLow',
           status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
           tech: 'BLender,SKetch,Pinterest',
           github: 'null',
