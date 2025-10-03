@@ -48,15 +48,6 @@ export default {
           tech: 'BLender,SKetch,Pinterest',
           github: 'null',
           demo: 'null'
-        },
-        {
-          id: 6,
-          name: 'TV Girl',
-          imageUrl: 'PolyLow',
-          status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
-          tech: 'BLender,SKetch,Pinterest',
-          github: 'null',
-          demo: 'null'
         }
       ]
     };
