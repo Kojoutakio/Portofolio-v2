@@ -39,7 +39,7 @@ export default {
       period: 2000,
       txt: '',
       loopNum: 0,
-      isDeleting: false,
+      isDeleting: true,
     };
   },
   mounted() {
