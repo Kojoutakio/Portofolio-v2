@@ -2,7 +2,7 @@
 export default {
   data() {
     return {
-      activeTab: 1,
+      activeTab: 2,
       items: [
         {
           id: 1,
