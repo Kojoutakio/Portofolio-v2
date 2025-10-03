@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'We are failed',
-          imageUrl:'outside',
+          imageUrl:'isometric',
           status: 'My reference is taken from Chaos insurgency, they failed to achieve their objective when they wanted to leave the facility, their pick-up ship was destroyed and they were also surrounded.',
           tech: 'Blender, Roblox studio',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
