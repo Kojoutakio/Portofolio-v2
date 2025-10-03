@@ -9,7 +9,7 @@ export default {
           name: 'We are failed',
           imageUrl:'isometric',
           status: 'My reference is taken from Chaos insurgency, they failed to achieve their objective when they wanted to leave the facility, their pick-up ship was destroyed and they were also surrounded.',
-          tech: 'Blender, Roblox studio',
+          tech: 'Blender, ',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
           demo: 'null'
         },
