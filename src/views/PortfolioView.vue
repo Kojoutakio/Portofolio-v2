@@ -2,14 +2,14 @@
 export default {
   data() {
     return {
-      activeTab: 2,
+      activeTab: 1,
       items: [
         {
           id: 1,
           name: 'Isometric',
           imageUrl:'isometric',
           status: 'My reference is taken from Chaos insurgency, they failed to achieve their objective when they wanted to leave the facility, their pick-up ship was destroyed and they were also surrounded.',
-          tech: 'Blender, ',
+          tech: 'Blender,Yotube',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
           demo: 'null'
         },
