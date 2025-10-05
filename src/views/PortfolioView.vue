@@ -8,7 +8,7 @@ export default {
           id: 1,
           name: 'Isometric',
           imageUrl:'isometric',
-          status: 'My reference is taken from Chaos insurgency, they failed to achieve their objective when they wanted to leave the facility, their pick-up ship was destroyed and they were also surrounded.',
+          status: 'This is my first isometric model that I made, which is very simple.',
           tech: 'Blender,Yotube',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
           demo: 'null'
