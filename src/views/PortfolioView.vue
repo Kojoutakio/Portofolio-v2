@@ -53,8 +53,7 @@ export default {
           id: 6,
           name: 'Second Isometric',
           videoUrl: 'Isometric23',
-          status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
-          tech: 'BLender,SKetch,Pinterest',
+          status: 'second isometric i make',
           github: 'null',
           demo: 'null'
         }
