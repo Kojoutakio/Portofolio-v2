@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Isometric',
-          imageUrl:'isometric',
+          videoUrl: 'isometric',
           status: 'This is my first isometric model that I made, which is very simple.',
           tech: 'Blender,Yotube',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'Lowpoly character',
-          imageUrl: 'lowpoly',
+          videoUrl: 'lowpoly',
           status: 'The first character I made using the low poly character style I am still learning to develop this skill/style',
           tech: 'Blender, Youtube',
           github: 'null',
@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'SCP 096 Breach Incident',
-          imageUrl: 'scp096',
+          videoUrl: 'scp096',
           status: 'This is when the Mobile Task Forces try to stop 096 from causing heavy damage and casualties at the facility [REDACTED]',
           tech: 'Blender, Sketch',
           github: 'null',
@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'Secret Introgation',
-          imageUrl: 'Council',
+          videoUrl: 'Council',
           status: 'This is when OVERWATC [O5 Council] interrogated a class d',
           tech: 'Blender, Roblox studio',
           github: 'null',
@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'TV Girl',
-          imageUrl: 'PolyLow',
+          videoUrl: 'PolyLow',
           status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
           tech: 'BLender,SKetch,Pinterest',
           github: 'null',
@@ -52,7 +52,7 @@ export default {
         {
           id: 6,
           name: 'TV Girl',
-          imageUrl: 'PolyLow',
+          videoUrl: 'PolyLow',
           status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
           tech: 'BLender,SKetch,Pinterest',
           github: 'null',
