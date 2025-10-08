@@ -16,7 +16,7 @@ export default {
         {
           id: 2,
           name: 'Lowpoly character',
-          videoUrl: 'lowpoly',
+          imageUrl: 'lowpoly',
           status: 'The first character I made using the low poly character style I am still learning to develop this skill/style',
           tech: 'Blender, Youtube',
           github: 'null',
@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'SCP 096 Breach Incident',
-          videoUrl: 'scp096',
+          imageUrl: 'scp096',
           status: 'This is when the Mobile Task Forces try to stop 096 from causing heavy damage and casualties at the facility [REDACTED]',
           tech: 'Blender, Sketch',
           github: 'null',
@@ -34,7 +34,7 @@ export default {
         {
           id: 4,
           name: 'Secret Introgation',
-          videoUrl: 'Council',
+          imageUrl: 'Council',
           status: 'This is when OVERWATC [O5 Council] interrogated a class d',
           tech: 'Blender, Roblox studio',
           github: 'null',
@@ -43,7 +43,7 @@ export default {
         {
           id: 5,
           name: 'TV Girl',
-          videoUrl: 'PolyLow',
+          imageUrl: 'PolyLow',
           status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
           tech: 'BLender,SKetch,Pinterest',
           github: 'null',
