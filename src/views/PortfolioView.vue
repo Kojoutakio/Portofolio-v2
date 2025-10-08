@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Isometric',
-          imageUrl: 'isometric',
+          imageoUrl: 'isometric',
           status: 'This is my first isometric model that I made, which is very simple.',
           tech: 'Blender,Yotube',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
@@ -43,15 +43,6 @@ export default {
         {
           id: 5,
           name: 'TV Girl',
-          imageUrl: 'PolyLow',
-          status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
-          tech: 'BLender,SKetch,Pinterest',
-          github: 'null',
-          demo: 'null'
-        },
-        {
-          id: 6,
-          name: 'Second Isometric',
           videoUrl: 'Isometric23',
           status: 'I took the reference from the sketch on Pinterest and this is also a low poly character that I made. Disclaimer: this is not skibidi',
           tech: 'BLender,SKetch,Pinterest',
@@ -69,7 +60,6 @@ export default {
       <header>
         <div
           class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
-          <!-- <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate"></div> -->
           <h4>Past Project Experience</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
             Explore the projects I've worked on so far</h4>
@@ -82,8 +72,11 @@ export default {
               <div
                 class="item-card flex flex-col items-center gap-2 rounded bg-[#1e1e1f] hover:bg-[#282828] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
                 <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
-                  <img alt="HTML" loading="lazy" decoding="async" data-nimg="1" class="drop-shadow-xl rounded rounded-xl"
-                    :src="'/img/portfolio-' + item.imageUrl + '.png'">
+                  <video 
+                    :src="'/img/portfolio-' + item.videoUrl + '.mp4'" 
+                    autoplay loop muted playsinline 
+                    class="drop-shadow-xl rounded rounded-xl h-full w-full object-cover">
+                  </video>
                 </div>
                 <div class="w-full flex flex-col gap-2 items-center text-sm md:text-base lg:text-lg">
                   <div class="title-text font-medium text-secondary">{{ item.name }}
@@ -114,15 +107,16 @@ export default {
                           <polyline points="15 3 21 3 21 9"></polyline>
                         <line x1="10" y1="14" x2="21" y2="3"></line>
                       </svg></a></div>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-  </article>
-</div></template>
+      </section>
+  </div>
+</article>
+</template>
 
 <style>
 .item-card:hover {
@@ -143,7 +137,6 @@ svg:hover{
   }
 }
 
-/* Menggunakan animasi pada elemen yang diinginkan */
 .fade-zoom-in {
   animation: fadeZoomIn 1s ease-in-out;
 }
