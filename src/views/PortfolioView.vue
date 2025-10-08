@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Isometric',
-          videoUrl: 'isometric',
+          imageUrl: 'isometric',
           status: 'This is my first isometric model that I made, which is very simple.',
           tech: 'Blender,Yotube',
           github: 'https://github.com/Kojoutakio/Portofolio-v2',
