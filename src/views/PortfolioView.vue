@@ -53,8 +53,8 @@ export default {
           id: 6,
           name: 'Second Isometric',
           imageUrl: 'Second Isometric',
-          status: 'second isometric i make',
-          tech: 'blender',
+          status: 'This is my second isometric which has a very comfortable and aesthetic room and has some subtle animations and lighting.',
+          tech: 'Blender',
           github: 'null',
           demo: 'null'
   
