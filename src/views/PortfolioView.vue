@@ -54,8 +54,10 @@ export default {
           name: 'Second Isometric',
           imageUrl: 'Second Isometric',
           status: 'second isometric i make',
+          tech: 'blender',
           github: 'null',
           demo: 'null'
+  
         }
       ]
     };
