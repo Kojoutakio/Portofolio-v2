@@ -52,7 +52,7 @@ export default {
         {
           id: 6,
           name: 'Second Isometric',
-          videoUrl: 'Second Isometric',
+          imageUrl: 'Second Isometric',
           status: 'second isometric i make',
           github: 'null',
           demo: 'null'
