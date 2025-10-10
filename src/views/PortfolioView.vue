@@ -57,7 +57,15 @@ export default {
           tech: 'Blender',
           github: 'null',
           demo: 'null'
-  
+        },
+        {
+          id: 7,
+          name: 'empty',
+          imageUrl: 'Second Isometric',
+          status: 'This is my second isometric which has a very comfortable and aesthetic room and has some subtle animations and lighting.',
+          tech: 'Blender',
+          github: 'null',
+          demo: 'null'
         }
       ]
     };
